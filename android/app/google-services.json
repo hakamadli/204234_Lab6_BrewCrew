@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541781702641",
+    "project_id": "hakam-brew-crew",
+    "storage_bucket": "hakam-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541781702641:android:56f5946770d43eacccf650",
+        "android_client_info": {
+          "package_name": "com.hakam.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541781702641-qci4fe6ao5sjsrltap9rq5n8kb8fl9vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvtfp6CwSo123e7FZb3AMfCKwlz0gbU_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541781702641-qci4fe6ao5sjsrltap9rq5n8kb8fl9vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
